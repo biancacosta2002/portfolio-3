@@ -1,0 +1,26 @@
+h1{color: blue;
+font-size: 70px;
+font-family: cursive;
+text-align: center;
+margin: 0px;
+padding: 20px;
+text-decoration: underline;
+}
+.Titulo1{color: aquamarine;}
+.Titulo2{color: rgb(102, 102, 102);}
+
+.Texto1{color: black;}
+.Texto2{color: blanchedalmond;}
+
+#Texto4{color: coral;}
+
+p{color: crimson;
+font-size: 40px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+margin: 0%;
+padding: 2px;
+text-decoration: underline;
+}
+
+body{background-color: azure;}
